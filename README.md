@@ -4,6 +4,12 @@ This is a React + TypeScript application that allows users to search for GitHub 
 
 ---
 
+## 🔗 Live Demo
+
+You can try the deployed app here:  
+👉 **[GitHub Repositories Explorer Live](https://reza-wijdan.github.io/GitHub_Repositories_Explorer/)**
+
+
 ## 📦 Requirements
 
 Before running the project, make sure you have:
